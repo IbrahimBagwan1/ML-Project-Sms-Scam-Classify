@@ -129,5 +129,5 @@ if st.button("🚀 Check Spam"):
         st.markdown('<div class="result ham">✅ Not Spam</div>', unsafe_allow_html=True)
 
 # Footer
-st.markdown('<div class="footer">Developed by Ibrahim Rasulahmed</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Developed by Ibrahim Rasulahmed Bagwan</div>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)

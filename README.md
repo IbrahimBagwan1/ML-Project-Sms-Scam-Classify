@@ -1,4 +1,20 @@
-# Sms Scam Classifier
+
+## ✨ Demo
+
+Try the live demo on Heroku:  
+➡️ https://your-heroku-app-name.herokuapp.com
+
+<details>
+<summary>👀 Screenshots</summary>
+
+### Home Page
+![Home Page](docs/home_page.png)
+
+### Spam Output Example
+![Spam Output](docs/spam_output.png)
+
+</details>
+
 
 This project is a machine learning-based solution to classify SMS messages as either "Spam" or "Not Spam". It also includes a deployed webpage where users can input SMS messages to check their classification in real-time.
 
