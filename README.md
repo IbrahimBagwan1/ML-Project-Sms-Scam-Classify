@@ -1,19 +1,14 @@
 
-## ✨ Demo
+## SMS/EMAIL SPAM CLASSIFIER
 
-Try the live demo on Heroku:  
-➡️ https://your-heroku-app-name.herokuapp.com
-
-<details>
 <summary>👀 Screenshots</summary>
 
 ### Home Page
-![Home Page](docs/home_page.png)
+![Home Page](home_page.png)
 
 ### Spam Output Example
-![Spam Output](docs/spam_output.png)
+![Spam Output](spam_output.png)
 
-</details>
 
 
 This project is a machine learning-based solution to classify SMS messages as either "Spam" or "Not Spam". It also includes a deployed webpage where users can input SMS messages to check their classification in real-time.
@@ -59,8 +54,9 @@ This project is a machine learning-based solution to classify SMS messages as ei
 The webpage is deployed using Flask. You can deploy it on platforms like Heroku or AWS for public access.
 
 ## Model Details
-- **Algorithm**: [Specify the algorithm used, e.g., Naive Bayes, SVM, etc.]
-- **Accuracy**: [Provide the accuracy or performance metrics of the model.]
+- **Algorithm**:  (Selected): Naive Bayes, (Checked for): SVM, RandomForest, Adaboost, XGBBoost, etc.
+- **Accuracy**: 0.97
+- **Precision**: 1.00
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
@@ -71,5 +67,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any queries, feel free to reach out:
 - **Author**: Ibrahim Bagwan
-- **Email**: [Your Email Address]
 - **GitHub**: [IbrahimBagwan1](https://github.com/IbrahimBagwan1)
